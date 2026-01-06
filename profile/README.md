@@ -63,10 +63,32 @@ https://github.com/Whoolab-Technologies/inventory-platform
 
 ## 🧰 Technologies We Work With
 
-- Flutter (mobile & shared UI frameworks)
-- Angular (enterprise web dashboards)
-- Laravel & PostgreSQL (API & workflows)
-- Modular multi-repo system design
+We design scalable, production-ready systems using modern, maintainable stacks
+across web, mobile, backend, and cloud platforms.
+
+**Mobile & Cross-Platform**
+- Flutter
+- Shared UI component libraries
+
+**Web Applications**
+- Angular
+- React
+
+**Backend & API Development**
+- Laravel
+- Node.js
+- REST API design and workflow automation
+
+**Databases & Realtime Data**
+- PostgreSQL
+- Firebase Firestore
+
+**Cloud & Infrastructure**
+- Google Cloud Platform
+- AWS
+- Environment-based configuration & scaling practices
+
+Our engineering approach focuses on modular design, reusability, and real-world workflow implementation.
 
 ---
 
